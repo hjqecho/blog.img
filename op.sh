@@ -5,3 +5,5 @@ git commit -m "npm publish"
 npm version patch
 # 推送至github触发action
 git push
+
+read answer
