@@ -1,6 +1,6 @@
 {
-  "name": "hjqecho_img",
-  "version": "1.0.1",
+  "name": "hjqecho_live2d",
+  "version": "1.0.0",
   "description": "blog图片",
   "main": "index.js",
   "scripts": {
