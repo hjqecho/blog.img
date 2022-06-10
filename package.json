@@ -1,6 +1,6 @@
 {
   "name": "hjqecho_img",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "blog图片",
   "main": "index.js",
   "scripts": {
